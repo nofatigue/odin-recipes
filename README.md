@@ -1,3 +1,3 @@
-This website showcases some recipes.
+This website showcases some fake recipes generated with ChatGPT.
 
-This project demonstrates skills of elemental HTML and Git usage.
+This project demonstrates skills of elemetary HTML and Git usage.
