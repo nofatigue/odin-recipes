@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige ;
+}
+
+
+ul li {
+    padding: 5px;
+}
+
+ol li {
+    padding: 7px;
+}
